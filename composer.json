@@ -1,0 +1,14 @@
+{
+    "name": "ibibicloud/thinkphp5-captcha",
+    "keywords": ["thinkphp5", "captcha", "thinkphp5-captcha"],
+    "description": "基于thinkphp-captcha=v2.0.2验证码类库",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "think\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
