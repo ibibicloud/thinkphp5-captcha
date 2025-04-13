@@ -2,7 +2,7 @@
     "name": "ibibicloud/thinkphp5-captcha",
     "type": "library",
     "keywords": ["thinkphp5", "captcha", "thinkphp5-captcha"],
-    "description": "基于thinkphp-captcha=v2.0.2验证码类库",
+    "description": "基于think-captcha=v2.0.2",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.6.0",
